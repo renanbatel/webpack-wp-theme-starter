@@ -1,0 +1,15 @@
+{
+    "name": "renanbatel/webpack-wp-theme-starter",
+    "description": "A theme development boilerplate to Wordpress with Webpack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renanbatel",
+            "email": "renanbatel@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    }
+}
